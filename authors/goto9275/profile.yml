@@ -1,0 +1,9 @@
+name: goto
+github: goto-bp
+# x:
+# website:
+icon: assets/icon.png
+bio: 海から来る
+admissionYear: 2023
+pinned:
+  - introduction
